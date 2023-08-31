@@ -2,6 +2,7 @@
 a="/$0"; a=${a%/*}; a=${a#/}; a=${a:-.}; BASEDIR=$(cd "$a" || exit 1; pwd -P)
 POOL_PIDS=""
 
+which ffmpeg &>/dev/null || (echo "Install ffmpeg first!" && exit 1)
 
 worker() {
 	while [ ! -e "$BASEDIR/convert.fifo" ]; do
