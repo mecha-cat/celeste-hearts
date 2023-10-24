@@ -60,21 +60,9 @@ run_task() {
 
 while [ "$#" -gt 0 ]; do
     case $1 in
-        --tgstickers)
-			if [ -z "$squareSize" ]; then
-            	squareSize=512
-				echo "Converting to Telegram Sticker size as set by CLI flags"
-			fi
-            ;;
-		--tgemojis)
-			if [ -z "$squareSize" ]; then
-				squareSize=100
-				echo "Converting to Telegram Emoji size as set by CLI flags"
-			fi
-			;;
-		--suffix)
-			echo "Appending a distinctive suffix at the end of filenames"
-			suffix=true
+		--path)
+			path=$2
+			shift
 			;;
 		--jobs)
 			jobs=$2
@@ -84,17 +72,22 @@ while [ "$#" -gt 0 ]; do
     shift
 done
 
-if [ -z "$squareSize" ]; then
-	echo "Converting to Telegram Emoji size by default. Change this by invoking the script with '--tgstickers' flag."
-	squareSize=100
-fi
-
 if [ -z "$jobs" ]; then
 	jobs=$(nproc --all)
 fi
 
+if [ -z "$path" ]; then
+	path="other_sizes"
+fi
+
 # Change dir to the root of the Celeste Hearts repository
 cd "$BASEDIR" || exit 1
+
+declare -A exts
+exts[png]="-frames:v 1 -update true -vf \"scale=w=-1:h={size}:force_original_aspect_ratio=decrease:flags=neighbor\""
+exts[gif]="-filter_complex \"[0:v] scale=w=-1:h={size}:force_original_aspect_ratio=decrease:flags=neighbor,split [a][b]; [a] palettegen [p]; [b][p] paletteuse\" -r 12.50"
+exts[webm]="-vf \"scale=w=-1:h={size}:force_original_aspect_ratio=decrease:flags=neighbor\" -c:v libvpx-vp9 -lossless 1 -pix_fmt yuva420p -r 12.50"
+sizes=("72" "128")
 
 echo "Spawing ${jobs} jobs"
 run_pool
@@ -104,14 +97,14 @@ shopt -s globstar nullglob extglob
 # Check access to directories, list all files, build hearts accordingly
 if ls -A1q . | grep -q .; then
 	for file in !(converted)/**/*.gif; do
-		if [ "$suffix" = "true" ]; then
-			fileWebm="converted/${file%.gif}_$squareSize.webm"
-		else
-			fileWebm="converted/${file%.gif}.webm"
-		fi
-		echo "Converting $file $fileWebm"
-		mkdir -p "${fileWebm%/*}" >/dev/null 2>&1
-		run_task sh -c "echo Converting \"$file\" \"$fileWebm\" && ffmpeg -hide_banner -loglevel warning -nostdin -y -i \"${file}\" -vf \"scale=w=${squareSize}:h=${squareSize}:force_original_aspect_ratio=decrease,pad=${squareSize}:${squareSize}:-1:-1:0xFFFFFF00\" -sws_flags neighbor -c:v libvpx-vp9 -lossless 1 -pix_fmt yuva420p -r 12.50 \"${fileWebm}\""
+		for size in "${sizes[@]}"; do
+			for ext in "${!exts[@]}"; do
+				arg="${exts["$ext"]}"
+				fileConverted="$path/${file%.gif}_$size.$ext"
+				mkdir -p "${fileConverted%/*}" >/dev/null 2>&1
+				run_task sh -c "echo Converting \"$file\" \"$fileConverted\" && ffmpeg -hide_banner -loglevel warning -nostdin -y -i \"${file}\" ${arg//"{size}"/"${size}"} \"${fileConverted}\""
+			done
+		done
 	done
 	stop_pool
 else
