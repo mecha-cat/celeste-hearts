@@ -7,7 +7,10 @@ import { createHash } from "node:crypto";
 const __dirname = dirname(decodeURI(new URL(import.meta.url).pathname));
 
 /** @type {string} */
-const hearts = await readFile(resolve(__dirname, "misskey_hearts_list.txt"), "utf-8");
+const hearts = await readFile(resolve(__dirname, "fedi_hearts_list.txt"), "utf-8");
+
+/** @type {string} */
+const outputFolder = resolve(__dirname, "..");
 
 const extraAliases = {
 	mlm: ["gay"],
@@ -97,13 +100,13 @@ const meta = {
 }
 
 console.debug("Zipping for Mastodon Admin Console");
-spawnSync("tar", ["-cvf", resolve(__dirname, "..", "celeste_hearts_mastodon_emojis.tar.gz"), "-C", tempdir, "."], { stdio: "pipe" });
+spawnSync("tar", ["-cvf", resolve(outputFolder, "celeste_hearts_mastodon_emojis.tar.gz"), "-C", tempdir, "."], { stdio: "pipe" });
 
 console.debug("Generating Misskey meta.json");
 await writeFile(resolve(tempdir, "meta.json"), JSON.stringify(meta, undefined, 2), "utf8");
 
 console.debug("Zipping for Misskey");
-spawnSync("zip", ["-rj", resolve(__dirname, "..", "celeste_hearts_misskey_emojis.zip"), tempdir], { stdio: "pipe" });
+spawnSync("zip", ["-rj", resolve(outputFolder, "celeste_hearts_misskey_emojis.zip"), tempdir], { stdio: "pipe" });
 
 console.debug("Generating Akkoma/Pleroma manifest and reference files");
 const manifest = {
@@ -112,12 +115,14 @@ const manifest = {
     "files": "celeste_hearts_akkoma.json",
     "homepage": "https://github.com/mecha-cat/celeste-hearts/",
     "src": "https://github.com/mecha-cat/celeste-hearts/raw/main/celeste_hearts_misskey_emojis.zip",
-    "src_sha256": createHash("sha256").update(await readFile(resolve(__dirname, "..", "celeste_hearts_misskey_emojis.zip"))).digest("hex"),
+    "src_sha256": createHash("sha256").update(await readFile(resolve(outputFolder, "celeste_hearts_misskey_emojis.zip"))).digest("hex"),
     "license": "CC BY-NC-SA 4.0"
   }
 }
-await writeFile(resolve(__dirname, "..", "celeste_hearts_akkoma.json"), JSON.stringify(Object.fromEntries(akkomaMetas), undefined, 2), "utf8");
-await writeFile(resolve(__dirname, "..", "celeste_hearts_akkoma_manifest.json"), JSON.stringify(manifest, undefined, 2), "utf8");
+
+const orderedAkkomaMetas = new Map([...akkomaMetas.keys()].sort((a, b) => a.localeCompare(b)).map(x => [x, akkomaMetas.get(x)]));
+await writeFile(resolve(outputFolder, "celeste_hearts_akkoma.json"), JSON.stringify(Object.fromEntries(orderedAkkomaMetas), undefined, 2), "utf8");
+await writeFile(resolve(outputFolder, "celeste_hearts_akkoma_manifest.json"), JSON.stringify(manifest, undefined, 2), "utf8");
 
 
 console.debug("Removing temporary directory");
