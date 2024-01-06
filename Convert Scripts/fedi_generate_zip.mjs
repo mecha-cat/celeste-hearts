@@ -55,13 +55,14 @@ console.debug(`Temporary directory is ${tempdir}`);
 for(const fileName of hearts.split("\n").filter(Boolean).filter(x => !x.startsWith("#"))){
 	console.debug(`Processing ${fileName}`);
 	try{
-		const __name = basename(fileName, extname(fileName))
-			.toLowerCase()
-			.replace("celeste_hearts_", "")
+		const __name = basename(fileName, extname(fileName)) // remove .gif
+			.toLowerCase() // to lowercase
+			.replace("celeste_hearts_", "") // remove prefix in case of testing
 			.replace("ch_", "")
-			.replace(/\s\d+$/, "")
-			.replace(" ", "_")
-			.replace("-", "_");
+			.replace(/\s?\(.*\)$/, "") // remove suffixes like "(not made by me)"
+			.replace(/\s\d+$/, "") // remove number suffixes
+			.replace(" ", "_") // replace spaces with underscores
+			.replace("-", "_"); // replace hyphens with underscores
 		const newFileName = "celeste_hearts_" + __name + extname(fileName);
 
 		await copyFile(resolve(__dirname, fileName), resolve(tempdir, newFileName));
