@@ -1,5 +1,7 @@
+#!/bin/env node
+
 import { spawnSync } from "node:child_process";
-import { copyFile, mkdtemp, readFile, rm, rmdir, writeFile } from "node:fs/promises";
+import { copyFile, mkdtemp, readFile, rm, rmdir, writeFile, readdir } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { dirname, basename, extname, resolve } from "node:path";
 import { createHash } from "node:crypto";
@@ -11,6 +13,10 @@ const hearts = await readFile(resolve(__dirname, "fedi_hearts_list.txt"), "utf-8
 
 /** @type {string} */
 const outputFolder = resolve(__dirname, "..", "Fediverse Packs");
+
+console.debug("Removing old zips");
+for(const x of await readdir(outputFolder))
+	await rm(resolve(outputFolder, x));
 
 const extraAliases = {
 	mlm: ["gay"],
