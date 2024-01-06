@@ -1,0 +1,98 @@
+#
+# COMMUNITY HEARTS
+#
+../Community Hearts/Ethnicity/BIPOC.gif
+../Community Hearts/Identity/Alterhuman.gif
+../Community Hearts/Identity/Therian.gif
+../Community Hearts/Identity/Voidpunk.gif
+
+#
+# HEALTH HEARTS
+#
+../Health Hearts/Community Label/Disability Pride.gif
+../Health Hearts/Mental/ADHD.gif
+../Health Hearts/Mental/Autism 1.gif
+../Health Hearts/Mental/OCD.gif
+../Health Hearts/Mental/PTSD.gif
+../Health Hearts/Mental/Personality Disorders/BPD 1.gif
+
+#
+# INTERSECTIONALITY HEARTS
+#
+../Intersectionality Hearts/Queer + Community/Black Trans.gif
+
+#
+# PLURAL HEARTS
+#
+../Plural Hearts/Plural 1.gif
+
+#
+# QUEER HEARTS
+#
+
+# A-spec
+../Queer Hearts/A-spec/Aplatonic Spectrum/Aplatonic.gif
+../Queer Hearts/A-spec/Aro Ace & More/Aroace.gif
+../Queer Hearts/A-spec/Aromantic Spectrum/Aromantic.gif
+../Queer Hearts/A-spec/Aromantic Spectrum/Demiromantic.gif
+../Queer Hearts/A-spec/Aromantic Spectrum/Greyromantic 1.gif
+../Queer Hearts/A-spec/Asexual Spectrum/Asexual.gif
+../Queer Hearts/A-spec/Asexual Spectrum/Demisexual.gif
+../Queer Hearts/A-spec/Asexual Spectrum/Greysexual.gif
+
+# Combo flags
+../Queer Hearts/Combo Flags/A-spec + Orientation/Demisexual Lesbian.gif
+
+# Gender expression flags
+../Queer Hearts/Gender Expression/Bear.gif
+../Queer Hearts/Gender Expression/Femboy.gif
+../Queer Hearts/Gender Expression/Tomboy 2.gif
+
+# Gender pride flags
+../Queer Hearts/Gender/Agender.gif
+../Queer Hearts/Gender/Androgyne 1.gif
+../Queer Hearts/Gender/Bigender 1.gif
+../Queer Hearts/Gender/Demiboy.gif
+../Queer Hearts/Gender/Demiflux.gif
+../Queer Hearts/Gender/Demigirl.gif
+../Queer Hearts/Gender/Deminonbinary.gif
+../Queer Hearts/Gender/Genderfluid.gif
+../Queer Hearts/Gender/Genderflux.gif
+../Queer Hearts/Gender/Genderqueer.gif
+../Queer Hearts/Gender/Non-Binary.gif
+../Queer Hearts/Gender/Pangender.gif
+../Queer Hearts/Gender/Trans.gif
+../Queer Hearts/Gender/Transfem 1.gif
+../Queer Hearts/Gender/Transmasc 1.gif
+../Queer Hearts/Gender/Transneutral 1.gif
+../Queer Hearts/Gender/Two-Spirit 1.gif
+../Queer Hearts/Gender/Xenogenders & Related/Catgender.gif
+../Queer Hearts/Gender/Xenogenders & Related/Xenogender.gif
+
+# Miscellaneous pride flags
+../Queer Hearts/Miscellaneous/Intersex.gif
+../Queer Hearts/Miscellaneous/OG Pride.gif
+../Queer Hearts/Miscellaneous/Progress Pride.gif
+../Queer Hearts/Miscellaneous/Queer 1.gif
+../Queer Hearts/Miscellaneous/Salmacian 1.gif
+../Queer Hearts/Miscellaneous/T4T 1.gif
+
+# Arguably not pride in the queer sense flags
+../Queer Hearts/Not Pride/Straight Ally 1.gif
+
+# Orientation
+../Queer Hearts/Orientation/Sexual/Abrosexual.gif
+../Queer Hearts/Orientation/Sexual/Bisexual.gif
+../Queer Hearts/Orientation/Sexual/Enbian 1.gif
+../Queer Hearts/Orientation/Sexual/Heteroflexible 2.gif
+../Queer Hearts/Orientation/Sexual/Homoflexible 2.gif
+../Queer Hearts/Orientation/Sexual/Lesbian 1.gif
+../Queer Hearts/Orientation/Sexual/MLM.gif
+../Queer Hearts/Orientation/Sexual/Omnisexual.gif
+../Queer Hearts/Orientation/Sexual/Pansexual.gif
+../Queer Hearts/Orientation/Sexual/Polysexual.gif
+../Queer Hearts/Orientation/Sexual/Sappho Lesbian.gif
+
+# Relationship model
+../Queer Hearts/Relationship Model/Ambiamorous 1.gif
+../Queer Hearts/Relationship Model/Polyamorous 1.gif
