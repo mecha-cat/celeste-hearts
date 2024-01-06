@@ -3,8 +3,8 @@
     "description": "Pride hearts encased in hearts, inspired by the Celeste game.",
     "files": "celeste_hearts_akkoma.json",
     "homepage": "https://github.com/mecha-cat/celeste-hearts/",
-    "src": "https://github.com/mecha-cat/celeste-hearts/raw/main/celeste_hearts_misskey_emojis.zip",
-    "src_sha256": "7659c926ba6e9445662d33a45a12be07649147c91c0413974ae4025c01eb4914",
+    "src": "https://github.com/mecha-cat/celeste-hearts/raw/main/Fediverse%20Packs/celeste_hearts_misskey_emojis.zip",
+    "src_sha256": "d057d35a51f2cb1b3f5cd7aa3cbcb20f4f7fa09984fdbbe27ac8d2bf49edc418",
     "license": "CC BY-NC-SA 4.0"
   }
 }

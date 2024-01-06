@@ -10,7 +10,7 @@ const __dirname = dirname(decodeURI(new URL(import.meta.url).pathname));
 const hearts = await readFile(resolve(__dirname, "fedi_hearts_list.txt"), "utf-8");
 
 /** @type {string} */
-const outputFolder = resolve(__dirname, "..");
+const outputFolder = resolve(__dirname, "..", "Fediverse Packs");
 
 const extraAliases = {
 	mlm: ["gay"],
@@ -114,7 +114,7 @@ const manifest = {
     "description": "Pride hearts encased in hearts, inspired by the Celeste game.",
     "files": "celeste_hearts_akkoma.json",
     "homepage": "https://github.com/mecha-cat/celeste-hearts/",
-    "src": "https://github.com/mecha-cat/celeste-hearts/raw/main/celeste_hearts_misskey_emojis.zip",
+    "src": "https://github.com/mecha-cat/celeste-hearts/raw/main/Fediverse%20Packs/celeste_hearts_misskey_emojis.zip",
     "src_sha256": createHash("sha256").update(await readFile(resolve(outputFolder, "celeste_hearts_misskey_emojis.zip"))).digest("hex"),
     "license": "CC BY-NC-SA 4.0"
   }
