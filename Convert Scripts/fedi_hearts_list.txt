@@ -2,9 +2,9 @@
 # COMMUNITY HEARTS
 #
 ../Community Hearts/Ethnicity/BIPOC.gif
-../Community Hearts/Identity/Alterhuman.gif
-../Community Hearts/Identity/Otherkin.gif
-../Community Hearts/Identity/Therian.gif
+../Community Hearts/Alterhumanity & Related/Alterhuman.gif
+../Community Hearts/Alterhumanity & Related/Otherkin.gif
+../Community Hearts/Alterhumanity & Related/Therian.gif
 ../Community Hearts/Identity/Voidpunk.gif
 
 #
@@ -84,6 +84,8 @@
 ../Queer Hearts/Gender/Transmasc 1.gif
 ../Queer Hearts/Gender/Transneutral 1.gif
 ../Queer Hearts/Gender/Two-Spirit 1.gif
+../Queer Hearts/Gender/Neurogenders & Related/Autigender.gif
+../Queer Hearts/Gender/Neurogenders & Related/Neurogender.gif
 ../Queer Hearts/Gender/Xenogenders & Related/Catgender.gif
 ../Queer Hearts/Gender/Xenogenders & Related/Dollgender.gif
 ../Queer Hearts/Gender/Xenogenders & Related/Robogender.gif
