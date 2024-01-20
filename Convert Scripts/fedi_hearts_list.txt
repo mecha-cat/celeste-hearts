@@ -84,7 +84,7 @@
 ../Queer Hearts/Gender/Transmasc 1.gif
 ../Queer Hearts/Gender/Transneutral 1.gif
 ../Queer Hearts/Gender/Two-Spirit 1.gif
-../Queer Hearts/Gender/Neurogenders & Related/Autigender.gif
+../Queer Hearts/Gender/Neurogenders & Related/Autigender 1.gif
 ../Queer Hearts/Gender/Neurogenders & Related/Neurogender.gif
 ../Queer Hearts/Gender/Xenogenders & Related/Catgender.gif
 ../Queer Hearts/Gender/Xenogenders & Related/Dollgender.gif
