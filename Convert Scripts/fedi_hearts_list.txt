@@ -27,8 +27,8 @@
 #
 ../Plural Hearts/Miscellaneous/Plural 1.gif
 ../Plural Hearts/System Type/Empty System.gif
+../Plural Hearts/System Type/Median 1.gif
 ../Plural Hearts/System Type/Polyfragmented 1.gif
-../Plural Hearts/System Type/Median Specific/Median 1.gif
 
 #
 # QUEER HEARTS
@@ -133,6 +133,6 @@
 #
 ../Joke Hearts/Boykisser.gif
 ../Joke Hearts/Among Us/Amogus Red.gif
-../Joke Hearts/Linux Distros/Arch 2.gif
-../Joke Hearts/Linux Distros/Debian 2.gif
+../Distro Hearts/Linux/Arch 2.gif
+../Distro Hearts/Linux/Debian 2.gif
 
