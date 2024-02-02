@@ -56,6 +56,7 @@
 
 # Gender expression flags
 ../Queer Hearts/Gender Expression/Azurgirl.gif
+../Queer Hearts/Gender Expression/Azur Rose 2.gif
 ../Queer Hearts/Gender Expression/Bear.gif
 ../Queer Hearts/Gender Expression/Femboy.gif
 ../Queer Hearts/Gender Expression/Rosboy.gif
