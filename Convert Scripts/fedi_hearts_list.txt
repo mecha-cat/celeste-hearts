@@ -55,8 +55,10 @@
 ../Queer Hearts/Combo Flags/A-spec + Orientation/Demisexual Lesbian.gif
 
 # Gender expression flags
+../Queer Hearts/Gender Expression/Azurgirl.gif
 ../Queer Hearts/Gender Expression/Bear.gif
 ../Queer Hearts/Gender Expression/Femboy.gif
+../Queer Hearts/Gender Expression/Rosboy.gif
 ../Queer Hearts/Gender Expression/Tomboy 2.gif
 ../Queer Hearts/Gender Expression/Twink.gif
 
@@ -133,6 +135,10 @@
 #
 ../Joke Hearts/Boykisser.gif
 ../Joke Hearts/Among Us/Amogus Red.gif
-../Distro Hearts/Linux/Arch 2.gif
-../Distro Hearts/Linux/Debian 2.gif
+../Distro Hearts/Linux/Arch.gif
+../Distro Hearts/Linux/Debian.gif
+../Distro Hearts/Linux/Fedora.gif
+../Distro Hearts/Linux/Gentoo.gif
+../Distro Hearts/Linux/NixOS.gif
+../Distro Hearts/Linux/Void.gif
 
