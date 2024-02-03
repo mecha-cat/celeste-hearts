@@ -3,6 +3,8 @@
 #
 ../Community Hearts/Ethnicity/BIPOC.gif
 ../Community Hearts/Alterhumanity & Related/Alterhuman.gif
+../Community Hearts/Alterhumanity & Related/Dollkin.gif
+../Community Hearts/Alterhumanity & Related/Human Non-Conforming.gif
 ../Community Hearts/Alterhumanity & Related/Otherkin.gif
 ../Community Hearts/Alterhumanity & Related/Therian.gif
 ../Community Hearts/Identity/Voidpunk.gif
@@ -13,8 +15,10 @@
 ../Health Hearts/Community Label/Disability Pride.gif
 ../Health Hearts/Mental/ADHD.gif
 ../Health Hearts/Mental/Autism 1.gif
+../Health Hearts/Mental/Bipolar.gif
 ../Health Hearts/Mental/OCD.gif
 ../Health Hearts/Mental/PTSD.gif
+../Health Hearts/Mental/UDD.gif
 ../Health Hearts/Mental/Personality Disorders/BPD 1.gif
 
 #
