@@ -25,6 +25,7 @@
 # INTERSECTIONALITY HEARTS
 #
 ../Intersectionality Hearts/Queer + Community/Black Trans.gif
+../Intersectionality Hearts/Queer + Plural/Systemfluid.gif
 
 #
 # PLURAL HEARTS
@@ -85,7 +86,6 @@
 ../Queer Hearts/Gender/Neutrois.gif
 ../Queer Hearts/Gender/Non-Binary.gif
 ../Queer Hearts/Gender/Pangender.gif
-../Queer Hearts/Gender/Systemfluid.gif
 ../Queer Hearts/Gender/Trans.gif
 ../Queer Hearts/Gender/Transfem 1.gif
 ../Queer Hearts/Gender/Transmasc 1.gif
@@ -138,8 +138,8 @@
 #
 # JOKE HEARTS
 #
-../Joke Hearts/Boykisser.gif
-../Joke Hearts/Among Us/Amogus Red.gif
+../Meme Hearts/Boykisser.gif
+../Meme Hearts/Among Us/Amogus Red.gif
 ../Distro Hearts/Linux/Arch.gif
 ../Distro Hearts/Linux/Debian.gif
 ../Distro Hearts/Linux/Fedora.gif
