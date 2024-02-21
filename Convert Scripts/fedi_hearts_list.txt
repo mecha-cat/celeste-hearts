@@ -16,7 +16,7 @@
 ../Health Hearts/Mental/ADHD.gif
 ../Health Hearts/Mental/Autism 1.gif
 ../Health Hearts/Mental/Bipolar.gif
-../Health Hearts/Mental/CPTSD.gif
+../Health Hearts/Mental/C-PTSD.gif
 ../Health Hearts/Mental/OCD.gif
 ../Health Hearts/Mental/PTSD.gif
 ../Health Hearts/Mental/UDD.gif
