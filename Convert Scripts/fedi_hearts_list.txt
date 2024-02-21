@@ -16,6 +16,7 @@
 ../Health Hearts/Mental/ADHD.gif
 ../Health Hearts/Mental/Autism 1.gif
 ../Health Hearts/Mental/Bipolar.gif
+../Health Hearts/Mental/C-PTSD.gif
 ../Health Hearts/Mental/OCD.gif
 ../Health Hearts/Mental/PTSD.gif
 ../Health Hearts/Mental/UDD.gif
@@ -113,11 +114,14 @@
 ../Queer Hearts/Miscellaneous/T4T 1.gif
 ../Queer Hearts/Miscellaneous/Unlabeled.gif
 
+# Pronouns
+../Queer Hearts/Pronouns/Neopronouns 2.gif
+
 # Arguably not pride in the queer sense flags
 ../Queer Hearts/Not Pride/Straight Ally 1.gif
 
 # Orientation
-# ../Queer Hearts/Orientation/Platonic/Autoplatonic.gif
+../Queer Hearts/Orientation/Platonic/Autoplatonic.gif
 ../Queer Hearts/Orientation/Romantic/Autoromantic.gif
 ../Queer Hearts/Orientation/Sexual/Abrosexual.gif
 ../Queer Hearts/Orientation/Sexual/Achillean.gif
