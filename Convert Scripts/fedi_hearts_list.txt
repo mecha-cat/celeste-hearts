@@ -16,7 +16,7 @@
 ../Health Hearts/Mental/ADHD.gif
 ../Health Hearts/Mental/Autism 1.gif
 ../Health Hearts/Mental/Bipolar.gif
-../Health Hearts/Mental/C-PTSD.gif
+../Health Hearts/Mental/CPTSD.gif
 ../Health Hearts/Mental/OCD.gif
 ../Health Hearts/Mental/PTSD.gif
 ../Health Hearts/Mental/UDD.gif
@@ -153,6 +153,11 @@
 #
 ../Meme Hearts/Boykisser.gif
 ../Meme Hearts/Among Us/Amogus Red.gif
+
+#
+# DISTRO HEARTS
+#
+../Distro Hearts/Linux/Alpine.gif
 ../Distro Hearts/Linux/Arch.gif
 ../Distro Hearts/Linux/Debian.gif
 ../Distro Hearts/Linux/Fedora.gif
@@ -160,4 +165,5 @@
 ../Distro Hearts/Linux/Mint.gif
 ../Distro Hearts/Linux/NixOS.gif
 ../Distro Hearts/Linux/Void.gif
+../Distro Hearts/Other/FreeBSD.gif
 
