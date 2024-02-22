@@ -17,3 +17,8 @@ Colors should be sourced from the original flag with a few exceptions:
 - Do **not** use pure black (#000000) as it'll blend with the heart's frame, instead use an off black (#0F0F0F);
 - Do **not** use pure white (#FFFFFF) as it'll blend with the shine effects, instead use a very light grey (#EAEAEA);
 - You may slightly tweak the colors if the contrast is low when applying them to the heart.
+
+# Building Fediverse Packs - Dependencies
+- zip
+- nodejs
+
