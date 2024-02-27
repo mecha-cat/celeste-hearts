@@ -159,6 +159,7 @@
 #
 ../Distro Hearts/Linux/Alpine.gif
 ../Distro Hearts/Linux/Arch.gif
+../Distro Hearts/Linux/Artix.gif
 ../Distro Hearts/Linux/Debian.gif
 ../Distro Hearts/Linux/Fedora.gif
 ../Distro Hearts/Linux/Gentoo.gif
