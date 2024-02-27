@@ -50,12 +50,15 @@
 ../Queer Hearts/A-spec/Aplatonic Spectrum/Greyplatonic 1.gif
 ../Queer Hearts/A-spec/Aro Ace & More/Aroace.gif
 ../Queer Hearts/A-spec/Aro Ace & More/Aroaceflux 2.gif
+../Queer Hearts/A-spec/Aro Ace & More/Aromantic Allosexual.gif
 ../Queer Hearts/A-spec/Aro Ace & More/Greyaroace 1.gif
 ../Queer Hearts/A-spec/Aromantic Spectrum/Aroflux 2.gif
 ../Queer Hearts/A-spec/Aromantic Spectrum/Aromantic.gif
 ../Queer Hearts/A-spec/Aromantic Spectrum/Demiromantic.gif
 ../Queer Hearts/A-spec/Aromantic Spectrum/Greyromantic 1.gif
+../Queer Hearts/A-spec/Aromantic Spectrum/Nebularomantic.gif
 ../Queer Hearts/A-spec/Asexual Spectrum/Aceflux 2.gif
+../Queer Hearts/A-spec/Asexual Spectrum/Alloromantic Asexual.gif
 ../Queer Hearts/A-spec/Asexual Spectrum/Asexual.gif
 ../Queer Hearts/A-spec/Asexual Spectrum/Demisexual.gif
 ../Queer Hearts/A-spec/Asexual Spectrum/Greysexual.gif
@@ -65,9 +68,10 @@
 
 # Gender expression flags
 ../Queer Hearts/Gender Expression/Azurgirl.gif
-../Queer Hearts/Gender Expression/Azur Rose 2.gif
+../Queer Hearts/Gender Expression/Azur Rose 1.gif
 ../Queer Hearts/Gender Expression/Bear.gif
 ../Queer Hearts/Gender Expression/Femboy.gif
+../Queer Hearts/Gender Expression/Femminiello.gif
 ../Queer Hearts/Gender Expression/Rosboy.gif
 ../Queer Hearts/Gender Expression/Tomboy 2.gif
 ../Queer Hearts/Gender Expression/Twink.gif
@@ -122,6 +126,7 @@
 
 # Orientation
 ../Queer Hearts/Orientation/Platonic/Autoplatonic.gif
+../Queer Hearts/Orientation/Platonic/Queerplatonic.gif
 ../Queer Hearts/Orientation/Romantic/Autoromantic.gif
 ../Queer Hearts/Orientation/Sexual/Abrosexual.gif
 ../Queer Hearts/Orientation/Sexual/Achillean.gif
