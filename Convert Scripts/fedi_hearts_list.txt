@@ -35,6 +35,9 @@
 ../Plural Hearts/Introject & Related/Fictive 1.gif
 ../Plural Hearts/Member Type/Extranth.gif
 ../Plural Hearts/Miscellaneous/Plural 1.gif
+../Plural Hearts/Origins/Endogenic 1.gif
+../Plural Hearts/Origins/Traumagenic 1.gif
+../Plural Hearts/Origins/Quoigenic.gif
 ../Plural Hearts/System Type/Empty System.gif
 ../Plural Hearts/System Type/Median 1.gif
 ../Plural Hearts/System Type/Polyfragmented 1.gif
@@ -44,19 +47,22 @@
 #
 
 # A-spec
+../Queer Hearts/A-spec/Aplatonic Spectrum/Aegoplatonic.gif
 ../Queer Hearts/A-spec/Aplatonic Spectrum/Aplatonic.gif
 ../Queer Hearts/A-spec/Aplatonic Spectrum/Aplflux 2.gif
 ../Queer Hearts/A-spec/Aplatonic Spectrum/Demiplatonic.gif
 ../Queer Hearts/A-spec/Aplatonic Spectrum/Greyplatonic 1.gif
 ../Queer Hearts/A-spec/Aro Ace & More/Aroace.gif
 ../Queer Hearts/A-spec/Aro Ace & More/Aroaceflux 2.gif
-../Queer Hearts/A-spec/Aro Ace & More/Aromantic Allosexual.gif
 ../Queer Hearts/A-spec/Aro Ace & More/Greyaroace 1.gif
+../Queer Hearts/A-spec/Aromantic Spectrum/Aegoromantic.gif
 ../Queer Hearts/A-spec/Aromantic Spectrum/Aroflux 2.gif
 ../Queer Hearts/A-spec/Aromantic Spectrum/Aromantic.gif
+../Queer Hearts/A-spec/Aromantic Spectrum/Aromantic Allosexual.gif
 ../Queer Hearts/A-spec/Aromantic Spectrum/Demiromantic.gif
 ../Queer Hearts/A-spec/Aromantic Spectrum/Greyromantic 1.gif
 ../Queer Hearts/A-spec/Aromantic Spectrum/Nebularomantic.gif
+../Queer Hearts/A-spec/Asexual Spectrum/Aegosexual.gif
 ../Queer Hearts/A-spec/Asexual Spectrum/Aceflux 2.gif
 ../Queer Hearts/A-spec/Asexual Spectrum/Alloromantic Asexual.gif
 ../Queer Hearts/A-spec/Asexual Spectrum/Asexual.gif
