@@ -37,7 +37,7 @@
 ../Plural Hearts/Miscellaneous/Plural 1.gif
 ../Plural Hearts/Origins/Endogenic 1.gif
 ../Plural Hearts/Origins/Traumagenic 1.gif
-../Plural Hearts/Origins/Quoigenic.gif
+../Plural Hearts/Origins/Quoigenic 1.gif
 ../Plural Hearts/System Type/Empty System.gif
 ../Plural Hearts/System Type/Median 1.gif
 ../Plural Hearts/System Type/Polyfragmented 1.gif
