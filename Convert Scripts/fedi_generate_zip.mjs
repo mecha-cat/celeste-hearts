@@ -52,17 +52,23 @@ const akkomaMetas = new Map();
 const tempdir = await mkdtemp(resolve(tmpdir(), "celesteHeartsEmoji"));
 console.debug(`Temporary directory is ${tempdir}`);
 
-for(const fileName of hearts.split("\n").filter(Boolean).filter(x => !x.startsWith("#"))){
+for(const [fileName, alias] of hearts.split("\n").filter(Boolean).filter(x => !x.startsWith("#")).map(x => x.split(/(?<!\\)\|/).map(y => y.trim()))){
 	console.debug(`Processing ${fileName}`);
 	try{
-		const __name = basename(fileName, extname(fileName)) // remove .gif
+		const __alias = (alias ?? "")
+			.toLowerCase() // to lowercase
+			.replace(" ", "_") // replace spaces with underscores
+			.replace("-", "_"); // replace hyphens with underscores
+
+		const __name = __alias || basename(fileName, extname(fileName)) // remove .gif
 			.toLowerCase() // to lowercase
 			.replace("celeste_hearts_", "") // remove prefix in case of testing
 			.replace("ch_", "")
 			.replace(/\s?\(.*\)$/, "") // remove suffixes like "(not made by me)"
-			.replace(/\s\d+$/, "") // remove number suffixes
+			//.replace(/\s\d+$/, "") // remove number suffixes
 			.replace(" ", "_") // replace spaces with underscores
 			.replace("-", "_"); // replace hyphens with underscores
+
 		const newFileName = "celeste_hearts_" + __name + extname(fileName);
 
 		await copyFile(resolve(__dirname, fileName), resolve(tempdir, newFileName));
