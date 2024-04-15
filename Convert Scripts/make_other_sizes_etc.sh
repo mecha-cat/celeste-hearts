@@ -85,9 +85,9 @@ cd "$BASEDIR" || exit 1
 
 declare -A exts
 exts[png]="-frames:v 1 -update true -vf \"scale=w=-1:h={size}:force_original_aspect_ratio=decrease:flags=neighbor\""
-exts[gif]="-filter_complex \"[0:v] scale=w=-1:h={size}:force_original_aspect_ratio=decrease:flags=neighbor,split [a][b]; [a] palettegen [p]; [b][p] paletteuse\" -r 12.50"
-exts[webm]="-vf \"scale=w=-1:h={size}:force_original_aspect_ratio=decrease:flags=neighbor\" -c:v libvpx-vp9 -lossless 1 -pix_fmt yuva420p -r 12.50"
-sizes=("72" "128")
+#exts[gif]="-filter_complex \"[0:v] scale=w=-1:h={size}:force_original_aspect_ratio=decrease:flags=neighbor,split [a][b]; [a] palettegen [p]; [b][p] paletteuse\" -r 12.50"
+#exts[webm]="-vf \"scale=w=-1:h={size}:force_original_aspect_ratio=decrease:flags=neighbor\" -c:v libvpx-vp9 -lossless 1 -pix_fmt yuva420p -r 12.50"
+sizes=("1000")
 
 echo "Spawing ${jobs} jobs"
 run_pool
@@ -95,12 +95,13 @@ run_pool
 shopt -s globstar nullglob extglob
 
 # Check access to directories, list all files, build hearts accordingly
-if ls -A1q . | grep -q .; then
-	for file in !(converted)/**/*.gif; do
+if ls -A1q .. | grep -q .; then
+	for file in ../!(${path})/**/*.gif; do
 		for size in "${sizes[@]}"; do
 			for ext in "${!exts[@]}"; do
 				arg="${exts["$ext"]}"
-				fileConverted="$path/${file%.gif}_$size.$ext"
+				fileWithoutDots=${file#../}
+				fileConverted="${path}/${fileWithoutDots%.gif}_$size.$ext"
 				mkdir -p "${fileConverted%/*}" >/dev/null 2>&1
 				run_task sh -c "echo Converting \"$file\" \"$fileConverted\" && ffmpeg -hide_banner -loglevel warning -nostdin -y -i \"${file}\" ${arg//"{size}"/"${size}"} \"${fileConverted}\""
 			done
