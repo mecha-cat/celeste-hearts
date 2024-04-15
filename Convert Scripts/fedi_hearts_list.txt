@@ -128,7 +128,7 @@
 ../Queer Hearts/Pronouns/Neopronouns 2.gif | Neopronouns
 
 # Arguably not pride in the queer sense flags
-../Unused Hearts/NOT MADE BY ME/Straight Ally (Not Made By Me).gif
+../Conformant Hearts/Straight Ally 1.gif | Straight Ally
 
 # Orientation
 ../Queer Hearts/Orientation/Platonic/Autoplatonic.gif
