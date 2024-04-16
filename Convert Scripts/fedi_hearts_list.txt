@@ -102,8 +102,11 @@
 ../Queer Hearts/Gender/Pangender.gif
 ../Queer Hearts/Gender/Trans.gif
 ../Queer Hearts/Gender/Transfem 1.gif | Transfem
+../Queer Hearts/Gender/Transfem 2.gif | Transfem Alt
 ../Queer Hearts/Gender/Transmasc 1.gif | Transmasc
+../Queer Hearts/Gender/Transmasc 2.gif | Transmasc Alt
 ../Queer Hearts/Gender/Transneutral 1.gif | Transneutral
+../Queer Hearts/Gender/Transneutral 2.gif | Transneutral Alt
 ../Queer Hearts/Gender/Two-Spirit 1.gif | Two-Spirit
 ../Queer Hearts/Gender/Neurogenders & Related/Autigender 1.gif | Autigender
 ../Queer Hearts/Gender/Neurogenders & Related/Neurogender.gif
