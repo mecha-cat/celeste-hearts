@@ -21,6 +21,7 @@
 ../Health Hearts/Mental/PTSD.gif
 ../Health Hearts/Mental/UDD.gif
 ../Health Hearts/Mental/Personality Disorders/BPD 1.gif | BPD
+../Health Hearts/Physical/Fibromyalgia.gif
 
 #
 # INTERSECTIONALITY HEARTS
