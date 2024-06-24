@@ -14,11 +14,14 @@
 #
 ../Health Hearts/Community Label/Disability Pride.gif
 ../Health Hearts/Mental/ADHD.gif
+../Health Hearts/Mental/Anxiety.gif
 ../Health Hearts/Mental/Autism 1.gif | Autism
 ../Health Hearts/Mental/Bipolar.gif
 ../Health Hearts/Mental/C-PTSD.gif
+../Health Hearts/Mental/Depression.gif
+../Health Hearts/Mental/DPDR.gif
 ../Health Hearts/Mental/OCD.gif
-../Health Hearts/Mental/PTSD.gif
+../Health Hearts/Mental/PTSD 1.gif
 ../Health Hearts/Mental/UDD.gif
 ../Health Hearts/Mental/Personality Disorders/BPD 1.gif | BPD
 ../Health Hearts/Physical/Fibromyalgia.gif
@@ -166,6 +169,7 @@
 #
 # JOKE HEARTS
 #
+../Meme Hearts/Anarcho-Communism.gif
 ../Meme Hearts/Boykisser.gif
 ../Meme Hearts/Among Us/Amogus Red.gif
 
