@@ -4,7 +4,7 @@
     "files": "celeste_hearts_akkoma.json",
     "homepage": "https://github.com/mecha-cat/celeste-hearts/",
     "src": "https://github.com/mecha-cat/celeste-hearts/raw/main/Fediverse%20Packs/celeste_hearts_misskey_emojis.zip",
-    "src_sha256": "00845c50f7b4c8ca78fd5d85fac6cd27375a5158bf57f1c9df447dad9399d405",
+    "src_sha256": "e46d68bed3bb3f5c3dc5e4972114c9aa7017c76c444594f1c6c462514817ee71",
     "license": "CC BY-NC-SA 4.0"
   }
 }

@@ -184,5 +184,6 @@
 ../Distro Hearts/Linux/Gentoo.gif
 ../Distro Hearts/Linux/Mint.gif
 ../Distro Hearts/Linux/NixOS.gif
+../Distro Hearts/Linux/SteamOS.gif
 ../Distro Hearts/Linux/Void.gif
 ../Distro Hearts/Other/FreeBSD.gif
