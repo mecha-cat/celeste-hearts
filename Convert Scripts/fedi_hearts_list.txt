@@ -30,7 +30,9 @@
 # INTERSECTIONALITY HEARTS
 #
 ../Intersectionality Hearts/Queer + Community/Black Trans.gif
+../Intersectionality Hearts/Queer + Plural/Headmate4Headmate.gif
 ../Intersectionality Hearts/Queer + Plural/Systemfluid.gif
+../Intersectionality Hearts/Queer + Plural/System4System.gif
 
 #
 # PLURAL HEARTS
@@ -138,29 +140,29 @@
 ../Conformant Hearts/Straight Ally 1.gif | Straight Ally
 
 # Orientation
-../Queer Hearts/Orientation/Platonic/Autoplatonic.gif
-../Queer Hearts/Orientation/Platonic/Queerplatonic.gif
-../Queer Hearts/Orientation/Romantic/Autoromantic.gif
-../Queer Hearts/Orientation/Sexual/Abrosexual.gif
-../Queer Hearts/Orientation/Sexual/Achillean.gif
-../Queer Hearts/Orientation/Sexual/Autosexual.gif
-../Queer Hearts/Orientation/Sexual/Bisexual.gif
-../Queer Hearts/Orientation/Sexual/Diamoric.gif
-../Queer Hearts/Orientation/Sexual/Enbian 1.gif | Enbian
-../Queer Hearts/Orientation/Sexual/Finsexual 2.gif | Finsexual
-../Queer Hearts/Orientation/Sexual/Heteroflexible 2.gif | Heteroflexible
-../Queer Hearts/Orientation/Sexual/Homoflexible 2.gif | Homoflexible
-../Queer Hearts/Orientation/Sexual/Lesbian 1.gif | Lesbian
-../Queer Hearts/Orientation/Sexual/Minsexual 2.gif | Minsexual
-../Queer Hearts/Orientation/Sexual/MLM.gif
-../Queer Hearts/Orientation/Sexual/Multisexual.gif
-../Queer Hearts/Orientation/Sexual/Ninsexual 2.gif | Ninsexual
-../Queer Hearts/Orientation/Sexual/Omnisexual.gif
-../Queer Hearts/Orientation/Sexual/Pansexual.gif
-../Queer Hearts/Orientation/Sexual/Polysexual.gif
-../Queer Hearts/Orientation/Sexual/Sapphic.gif
-../Queer Hearts/Orientation/Sexual/Sappho Lesbian.gif
-../Queer Hearts/Orientation/Sexual/Sexuality Questioning.gif
+../Queer Hearts/Tertiary Orientation/Platonic/Autoplatonic.gif
+../Queer Hearts/Tertiary Orientation/Platonic/Queerplatonic.gif
+../Queer Hearts/Romantic Orientation/Autoromantic.gif
+../Queer Hearts/Sexuality/Abrosexual.gif
+../Queer Hearts/Sexuality/Achillean.gif
+../Queer Hearts/Sexuality/Autosexual.gif
+../Queer Hearts/Sexuality/Bisexual.gif
+../Queer Hearts/Sexuality/Diamoric.gif
+../Queer Hearts/Sexuality/Enbian 1.gif | Enbian
+../Queer Hearts/Sexuality/Finsexual 2.gif | Finsexual
+../Queer Hearts/Sexuality/Heteroflexible 2.gif | Heteroflexible
+../Queer Hearts/Sexuality/Homoflexible 2.gif | Homoflexible
+../Queer Hearts/Sexuality/Lesbian 1.gif | Lesbian
+../Queer Hearts/Sexuality/Minsexual 2.gif | Minsexual
+../Queer Hearts/Sexuality/MLM.gif
+../Queer Hearts/Sexuality/Multisexual.gif
+../Queer Hearts/Sexuality/Ninsexual 2.gif | Ninsexual
+../Queer Hearts/Sexuality/Omnisexual.gif
+../Queer Hearts/Sexuality/Pansexual.gif
+../Queer Hearts/Sexuality/Polysexual.gif
+../Queer Hearts/Sexuality/Sapphic.gif
+../Queer Hearts/Sexuality/Sappho Lesbian.gif
+../Queer Hearts/Sexuality/Sexuality Questioning.gif
 
 # Relationship model
 ../Queer Hearts/Relationship Model/Ambiamorous 1.gif | Ambiamorous
