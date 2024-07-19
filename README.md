@@ -1,5 +1,6 @@
 # celeste-hearts
-The GitHub side of my project, mostly used to deliver updates on the Revolt server, and for automation of certain tasks.
+Main repo for the heart emotes inspired by the famous game.
+If you're coming from Mastodon/Fediverse you're probably looking for the packs which can be located in the Fediverse Packs folder. If you're coming here from another place... well hello there, I guess.
 
 # Template - Make Your Own Hearts
 You will need:
