@@ -1,6 +1,6 @@
 # celeste-hearts
 Main repo for the heart emotes inspired by the famous game.
-If you're coming from Mastodon/Fediverse you're probably looking for the packs which can be located in the Fediverse Packs folder. If you're coming here from another place... well hello there, I guess.
+If you're coming from Mastodon/Fediverse you're probably looking for the packs which can be located in the Fediverse Packs folder. If you're coming here from another place... well hello there, you may or may not be interested in joining the [Discord server](https://discord.com/invite/f46CqtnSbj).
 
 # Template - Make Your Own Hearts
 You will need:
