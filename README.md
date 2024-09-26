@@ -14,10 +14,24 @@ You will need:
 
 It is highly recommended to use the `Template (14 frames).aseprite` file located in the Templates folder for simple flags with horizontal lines. For flags with vertical, diagonal lines, or otherwise more complex designs, it is advised to use `Template (28 frames).aseprite`.
 
+## Design Decisions
+
 Colors should be sourced from the original flag with a few exceptions:
 - Do **not** use pure black (#000000) as it'll blend with the heart's frame, instead use an off black (#0F0F0F);
 - Do **not** use pure white (#FFFFFF) as it'll blend with the shine effects, instead use a very light grey (#EAEAEA);
 - You may slightly tweak the colors if the contrast is too low when applying them to the heart.
+
+### A-spec Colors
+
+- Asexual Purple: #790196
+- Aromantic Green: #2DA038
+- Rose (Aroace) Blue: #1F5474
+- Aplatonic Yellow: #FEF052
+- Asensual Orange: #FFA96C
+- Anaesthetic Pink: #FD82AE
+- Analterous Light Blue: #75A0FF
+- Afamiliar Light Blue & Orange: #3D9FDE & #DE883D
+- Asocial Red: #ED1B24
 
 # Building Fediverse Packs - Dependencies
 - zip
