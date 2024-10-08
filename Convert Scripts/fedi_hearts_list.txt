@@ -8,22 +8,30 @@
 ../Community Hearts/Alterhumanity & Related/Otherkin.gif
 ../Community Hearts/Alterhumanity & Related/Therian.gif
 ../Community Hearts/Identity/Voidpunk.gif
-
+../Community Hearts/Identity/Anarcho-Queer.gif
 #
 # HEALTH HEARTS
 #
 ../Health Hearts/Community Label/Disability Pride.gif
+../Health Hearts/Community Label/OSDD-1a 2.gif | OSDD-1a
+../Health Hearts/Community Label/OSDD-1b 2.gif | OSDD-1b
 ../Health Hearts/Mental/ADHD.gif
 ../Health Hearts/Mental/Anxiety.gif
 ../Health Hearts/Mental/Autism 1.gif | Autism
 ../Health Hearts/Mental/Bipolar.gif
 ../Health Hearts/Mental/C-PTSD.gif
 ../Health Hearts/Mental/Depression.gif
+../Health Hearts/Mental/DID-OSDD 1.gif | DID
 ../Health Hearts/Mental/DPDR.gif
 ../Health Hearts/Mental/OCD.gif
-../Health Hearts/Mental/PTSD 1.gif
+../Health Hearts/Mental/Schizophrenia.gif
+../Health Hearts/Mental/P-DID.gif | P-DID
+../Health Hearts/Mental/PTSD 1.gif | PTSD
 ../Health Hearts/Mental/UDD.gif
+../Health Hearts/Mental/Personality Disorders/ASPD 1.gif | ASPD
 ../Health Hearts/Mental/Personality Disorders/BPD 1.gif | BPD
+../Health Hearts/Mental/Personality Disorders/HPD 2.gif | HPD
+../Health Hearts/Mental/Personality Disorders/NPD 1.gif | NPD
 ../Health Hearts/Physical/Fibromyalgia.gif
 
 #
@@ -41,9 +49,12 @@
 ../Plural Hearts/Introject & Related/Fictive 1.gif | Fictive
 ../Plural Hearts/Member Type/Extranth.gif
 ../Plural Hearts/Miscellaneous/Plural 1.gif | Plural
+../Plural Hearts/Origins/Adaptive.gif
+../Plural Hearts/Origins/Created.gif
 ../Plural Hearts/Origins/Endogenic 1.gif | Endogenic
 ../Plural Hearts/Origins/Traumagenic 1.gif | Traumagenic
 ../Plural Hearts/Origins/Quoigenic 1.gif | Quoigenic
+../Plural Hearts/Origins/Spontaneous.gif
 ../Plural Hearts/System Type/Empty System.gif
 ../Plural Hearts/System Type/Median 1.gif | Median
 ../Plural Hearts/System Type/Polyfragmented 1.gif | Polyfragmented
@@ -75,15 +86,13 @@
 ../Queer Hearts/A-spec/Asexual Spectrum/Demisexual.gif
 ../Queer Hearts/A-spec/Asexual Spectrum/Greysexual.gif
 
-# Combo flags
-../Queer Hearts/Combo Flags/A-spec + Orientation/Demisexual Lesbian.gif
-
-# Gender expression flags
+# Gender Expression
 ../Queer Hearts/Gender Expression/Azurgirl.gif
 ../Queer Hearts/Gender Expression/Azur Rose 1.gif | Azur Rose
 ../Queer Hearts/Gender Expression/Bear.gif
 ../Queer Hearts/Gender Expression/Femboy.gif
 ../Queer Hearts/Gender Expression/Femminiello.gif
+../Queer Hearts/Gender Expression/Otter.gif
 ../Queer Hearts/Gender Expression/Rosboy.gif
 ../Queer Hearts/Gender Expression/Tomboy 2.gif | Tomboy
 ../Queer Hearts/Gender Expression/Twink.gif
@@ -102,7 +111,6 @@
 ../Queer Hearts/Gender/Genderflux.gif
 ../Queer Hearts/Gender/Genderqueer.gif
 ../Queer Hearts/Gender/Gender Questioning.gif
-../Queer Hearts/Gender/Girlboy.gif
 ../Queer Hearts/Gender/Neutrois.gif
 ../Queer Hearts/Gender/Non-Binary.gif
 ../Queer Hearts/Gender/Pangender.gif
@@ -129,9 +137,11 @@
 ../Queer Hearts/Miscellaneous/OG Pride.gif
 ../Queer Hearts/Miscellaneous/Progress Pride.gif
 ../Queer Hearts/Miscellaneous/Queer 1.gif | Queer
-../Queer Hearts/Miscellaneous/Salmacian 1.gif | Salmacian
 ../Queer Hearts/Miscellaneous/T4T 1.gif | T4T
 ../Queer Hearts/Miscellaneous/Unlabeled.gif
+
+# Altersex
+../Queer Hearts/Altersex & Related/Salmacian 1.gif | Salmacian
 
 # Pronouns
 ../Queer Hearts/Pronouns/Neopronouns 2.gif | Neopronouns
@@ -140,7 +150,6 @@
 ../Conformant Hearts/Straight Ally 1.gif | Straight Ally
 
 # Orientation
-../Queer Hearts/Tertiary Orientation/Platonic/Autoplatonic.gif
 ../Queer Hearts/Tertiary Orientation/Platonic/Queerplatonic.gif
 ../Queer Hearts/Romantic Orientation/Autoromantic.gif
 ../Queer Hearts/Sexuality/Abrosexual.gif
