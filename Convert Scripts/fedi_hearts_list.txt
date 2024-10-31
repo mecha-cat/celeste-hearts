@@ -25,13 +25,14 @@
 ../Health Hearts/Mental/DPDR.gif
 ../Health Hearts/Mental/OCD.gif
 ../Health Hearts/Mental/Schizophrenia.gif
-../Health Hearts/Mental/P-DID.gif | P-DID
+../Health Hearts/Mental/P-DID 1.gif | P-DID
 ../Health Hearts/Mental/PTSD 1.gif | PTSD
 ../Health Hearts/Mental/UDD.gif
 ../Health Hearts/Mental/Personality Disorders/ASPD 1.gif | ASPD
 ../Health Hearts/Mental/Personality Disorders/BPD 1.gif | BPD
 ../Health Hearts/Mental/Personality Disorders/HPD 2.gif | HPD
 ../Health Hearts/Mental/Personality Disorders/NPD 1.gif | NPD
+../Health Hearts/Physical/ME-CFS.gif
 ../Health Hearts/Physical/Fibromyalgia.gif
 
 #
@@ -99,14 +100,13 @@
 
 # Gender pride flags
 ../Queer Hearts/Gender/Agender.gif
-../Queer Hearts/Gender/Ambonec 1.gif | Ambonec
 ../Queer Hearts/Gender/Androgyne 1.gif | Androgyne
 ../Queer Hearts/Gender/Bigender 1.gif | Bigender
 ../Queer Hearts/Gender/Boygirl.gif
 ../Queer Hearts/Gender/Demiboy.gif
 ../Queer Hearts/Gender/Demiflux.gif
 ../Queer Hearts/Gender/Demigirl.gif
-../Queer Hearts/Gender/Deminonbinary.gif
+../Queer Hearts/Gender/Demigender.gif
 ../Queer Hearts/Gender/Genderfluid.gif
 ../Queer Hearts/Gender/Genderflux.gif
 ../Queer Hearts/Gender/Genderqueer.gif
@@ -114,6 +114,8 @@
 ../Queer Hearts/Gender/Neutrois.gif
 ../Queer Hearts/Gender/Non-Binary.gif
 ../Queer Hearts/Gender/Pangender.gif
+../Queer Hearts/Gender/Paraboy.gif
+../Queer Hearts/Gender/Paragirl.gif
 ../Queer Hearts/Gender/Trans.gif
 ../Queer Hearts/Gender/Transfem 1.gif | Transfem
 ../Queer Hearts/Gender/Transfem 2.gif | Transfem Alt
