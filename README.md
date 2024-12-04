@@ -33,6 +33,33 @@ Colors should be sourced from the original flag with a few exceptions:
 - Afamiliar Light Blue & Orange: #3D9FDE & #DE883D
 - Asocial Red: #ED1B24
 
+### Interaction Stances / Boundaries Colors
+- Sex: #8355BC
+- Romance: #61BE21
+- Touch: #54BDBC
+- Friendship: #BF401E
+
+- Flirting: #F663D5
+- Teasing: #BDDF45
+- Nicknames: #1E69E8
+- Compliments: #FF7B89
+- Front Requests: #FFED60
+
+
+- Allowed: #9CE6CE
+- Prohibited: #F1A5A8
+
+- Desired: #F49D3E
+- Favorable: #74E761
+- Piqued: #A571FC
+- Oscillating: #48C0FC
+- Indifferent: #A0A0A0
+- Ambivalent: #A1DFFD
+- Drained: #CE9FFC
+- Averse: #9BED9F
+- Repulsed: #F9CE9F
+- Abstained: #CECECE
+
 # Building Fediverse Packs - Dependencies
 - zip
 - nodejs
