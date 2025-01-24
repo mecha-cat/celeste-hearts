@@ -1,14 +1,13 @@
 #
 # COMMUNITY HEARTS
 #
-../Community Hearts/Ethnicity/BIPOC.gif
-../Community Hearts/Alterhumanity & Related/Alterhuman.gif
-../Community Hearts/Alterhumanity & Related/Dollkin.gif
-../Community Hearts/Alterhumanity & Related/Human Non-Conforming.gif
-../Community Hearts/Alterhumanity & Related/Otherkin.gif
-../Community Hearts/Alterhumanity & Related/Therian.gif
-../Community Hearts/Identity/Voidpunk.gif
-../Community Hearts/Identity/Anarcho-Queer.gif
+../Misc Hearts/Ethnicity/BIPOC.gif
+../Alterhuman Hearts/Alterhuman.gif
+../Alterhuman Hearts/Human Non-Conforming.gif
+../Alterhuman Hearts/Otherkin.gif
+../Alterhuman Hearts/Therian.gif
+../Misc Hearts/Identity/Voidpunk.gif
+../Misc Hearts/Identity/Anarcho-Queer.gif
 #
 # HEALTH HEARTS
 #
@@ -38,10 +37,9 @@
 #
 # INTERSECTIONALITY HEARTS
 #
-../Intersectionality Hearts/Queer + Community/Black Trans.gif
-../Intersectionality Hearts/Queer + Plural/Headmate4Headmate.gif
-../Intersectionality Hearts/Queer + Plural/Systemfluid.gif
-../Intersectionality Hearts/Queer + Plural/System4System.gif
+../Combo Hearts/Misc + Queer/Black Trans.gif
+../Combo Hearts/Queer + Plural/Systemfluid.gif
+../Combo Hearts/Queer + Plural/System4System.gif
 
 #
 # PLURAL HEARTS
@@ -50,13 +48,9 @@
 ../Plural Hearts/Introject & Related/Fictive 1.gif | Fictive
 ../Plural Hearts/Member Type/Extranth.gif
 ../Plural Hearts/Miscellaneous/Plural 1.gif | Plural
-../Plural Hearts/Origins/Adaptive.gif
-../Plural Hearts/Origins/Created.gif
 ../Plural Hearts/Origins/Endogenic 1.gif | Endogenic
 ../Plural Hearts/Origins/Traumagenic 1.gif | Traumagenic
 ../Plural Hearts/Origins/Quoigenic 1.gif | Quoigenic
-../Plural Hearts/Origins/Spontaneous.gif
-../Plural Hearts/System Type/Empty System.gif
 ../Plural Hearts/System Type/Median 1.gif | Median
 ../Plural Hearts/System Type/Polyfragmented 1.gif | Polyfragmented
 
@@ -65,36 +59,21 @@
 #
 
 # A-spec
-../Queer Hearts/A-spec/Aplatonic Spectrum/Aegoplatonic.gif
 ../Queer Hearts/A-spec/Aplatonic Spectrum/Aplatonic.gif
-../Queer Hearts/A-spec/Aplatonic Spectrum/Aplflux 2.gif | Aplflux
-../Queer Hearts/A-spec/Aplatonic Spectrum/Demiplatonic.gif
-../Queer Hearts/A-spec/Aplatonic Spectrum/Greyplatonic 1.gif | Greyplatonic
 ../Queer Hearts/A-spec/Aro Ace & More/Aroace.gif
-../Queer Hearts/A-spec/Aro Ace & More/Aroaceflux 2.gif | Aroaceflux
-../Queer Hearts/A-spec/Aro Ace & More/Greyaroace 1.gif | Greyaroace
 ../Queer Hearts/A-spec/Aromantic Spectrum/Aegoromantic.gif
-../Queer Hearts/A-spec/Aromantic Spectrum/Aroflux 2.gif | Aroflux
 ../Queer Hearts/A-spec/Aromantic Spectrum/Aromantic.gif
-../Queer Hearts/A-spec/Aromantic Spectrum/Aromantic Allosexual.gif
 ../Queer Hearts/A-spec/Aromantic Spectrum/Demiromantic.gif
 ../Queer Hearts/A-spec/Aromantic Spectrum/Greyromantic 1.gif | Greyromantic
-../Queer Hearts/A-spec/Aromantic Spectrum/Nebularomantic.gif
 ../Queer Hearts/A-spec/Asexual Spectrum/Aegosexual.gif
-../Queer Hearts/A-spec/Asexual Spectrum/Aceflux 2.gif | Aceflux
-../Queer Hearts/A-spec/Asexual Spectrum/Alloromantic Asexual.gif
 ../Queer Hearts/A-spec/Asexual Spectrum/Asexual.gif
 ../Queer Hearts/A-spec/Asexual Spectrum/Demisexual.gif
 ../Queer Hearts/A-spec/Asexual Spectrum/Greysexual.gif
 
 # Gender Expression
-../Queer Hearts/Gender Expression/Azurgirl.gif
-../Queer Hearts/Gender Expression/Azur Rose 1.gif | Azur Rose
 ../Queer Hearts/Gender Expression/Bear.gif
 ../Queer Hearts/Gender Expression/Femboy.gif
-../Queer Hearts/Gender Expression/Femminiello.gif
 ../Queer Hearts/Gender Expression/Otter.gif
-../Queer Hearts/Gender Expression/Rosboy.gif
 ../Queer Hearts/Gender Expression/Tomboy 2.gif | Tomboy
 ../Queer Hearts/Gender Expression/Twink.gif
 
@@ -104,18 +83,12 @@
 ../Queer Hearts/Gender/Bigender 1.gif | Bigender
 ../Queer Hearts/Gender/Boygirl.gif
 ../Queer Hearts/Gender/Demiboy.gif
-../Queer Hearts/Gender/Demiflux.gif
 ../Queer Hearts/Gender/Demigirl.gif
 ../Queer Hearts/Gender/Demigender.gif
 ../Queer Hearts/Gender/Genderfluid.gif
 ../Queer Hearts/Gender/Genderflux.gif
 ../Queer Hearts/Gender/Genderqueer.gif
-../Queer Hearts/Gender/Gender Questioning.gif
-../Queer Hearts/Gender/Neutrois.gif
 ../Queer Hearts/Gender/Non-Binary.gif
-../Queer Hearts/Gender/Pangender.gif
-../Queer Hearts/Gender/Paraboy.gif
-../Queer Hearts/Gender/Paragirl.gif
 ../Queer Hearts/Gender/Trans.gif
 ../Queer Hearts/Gender/Transfem 1.gif | Transfem
 ../Queer Hearts/Gender/Transfem 2.gif | Transfem Alt
@@ -126,37 +99,22 @@
 ../Queer Hearts/Gender/Two-Spirit 1.gif | Two-Spirit
 ../Queer Hearts/Gender/Neurogenders & Related/Autigender 1.gif | Autigender
 ../Queer Hearts/Gender/Neurogenders & Related/Neurogender.gif
-../Queer Hearts/Gender/Xenogenders & Related/Boything.gif
 ../Queer Hearts/Gender/Xenogenders & Related/Catgender.gif
-../Queer Hearts/Gender/Xenogenders & Related/Dollgender.gif
-../Queer Hearts/Gender/Xenogenders & Related/Girlthing.gif
-../Queer Hearts/Gender/Xenogenders & Related/Nonbinarything.gif
-../Queer Hearts/Gender/Xenogenders & Related/Robogender.gif
 ../Queer Hearts/Gender/Xenogenders & Related/Xenogender.gif
 
 # Miscellaneous pride flags
 ../Queer Hearts/Miscellaneous/Intersex.gif
-../Queer Hearts/Miscellaneous/OG Pride.gif
 ../Queer Hearts/Miscellaneous/Progress Pride.gif
 ../Queer Hearts/Miscellaneous/Queer 1.gif | Queer
 ../Queer Hearts/Miscellaneous/T4T 1.gif | T4T
-../Queer Hearts/Miscellaneous/Unlabeled.gif
 
 # Altersex
 ../Queer Hearts/Altersex & Related/Salmacian 1.gif | Salmacian
 
-# Pronouns
-../Queer Hearts/Pronouns/Neopronouns 2.gif | Neopronouns
-
-# Arguably not pride in the queer sense flags
-../Conformant Hearts/Straight Ally 1.gif | Straight Ally
-
 # Orientation
 ../Queer Hearts/Tertiary Orientation/Platonic/Queerplatonic.gif
-../Queer Hearts/Romantic Orientation/Autoromantic.gif
 ../Queer Hearts/Sexuality/Abrosexual.gif
 ../Queer Hearts/Sexuality/Achillean.gif
-../Queer Hearts/Sexuality/Autosexual.gif
 ../Queer Hearts/Sexuality/Bisexual.gif
 ../Queer Hearts/Sexuality/Diamoric.gif
 ../Queer Hearts/Sexuality/Enbian 1.gif | Enbian
@@ -166,14 +124,11 @@
 ../Queer Hearts/Sexuality/Lesbian 1.gif | Lesbian
 ../Queer Hearts/Sexuality/Minsexual 2.gif | Minsexual
 ../Queer Hearts/Sexuality/MLM.gif
-../Queer Hearts/Sexuality/Multisexual.gif
 ../Queer Hearts/Sexuality/Ninsexual 2.gif | Ninsexual
 ../Queer Hearts/Sexuality/Omnisexual.gif
 ../Queer Hearts/Sexuality/Pansexual.gif
 ../Queer Hearts/Sexuality/Polysexual.gif
 ../Queer Hearts/Sexuality/Sapphic.gif
-../Queer Hearts/Sexuality/Sappho Lesbian.gif
-../Queer Hearts/Sexuality/Sexuality Questioning.gif
 
 # Relationship model
 ../Queer Hearts/Relationship Model/Ambiamorous 1.gif | Ambiamorous
@@ -183,20 +138,18 @@
 # JOKE HEARTS
 #
 ../Meme Hearts/Anarcho-Communism.gif
-../Meme Hearts/Boykisser.gif
-../Meme Hearts/Among Us/Amogus Red.gif
 
 #
 # DISTRO HEARTS
 #
-../Distro Hearts/Linux/Alpine.gif
-../Distro Hearts/Linux/Arch.gif
-../Distro Hearts/Linux/Artix.gif
-../Distro Hearts/Linux/Debian.gif
-../Distro Hearts/Linux/Fedora.gif
-../Distro Hearts/Linux/Gentoo.gif
-../Distro Hearts/Linux/Mint.gif
-../Distro Hearts/Linux/NixOS.gif
-../Distro Hearts/Linux/SteamOS.gif
-../Distro Hearts/Linux/Void.gif
-../Distro Hearts/Other/FreeBSD.gif
+../Tech Hearts/Linux Distros/Alpine.gif
+../Tech Hearts/Linux Distros/Arch.gif
+../Tech Hearts/Linux Distros/Artix.gif
+../Tech Hearts/Linux Distros/Debian.gif
+../Tech Hearts/Linux Distros/Fedora.gif
+../Tech Hearts/Linux Distros/Gentoo.gif
+../Tech Hearts/Linux Distros/Mint.gif
+../Tech Hearts/Linux Distros/NixOS.gif
+../Tech Hearts/Linux Distros/SteamOS.gif
+../Tech Hearts/Linux Distros/Void.gif
+../Tech Hearts/Other OSs/FreeBSD.gif
