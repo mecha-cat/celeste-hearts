@@ -6,8 +6,9 @@
 ../Alterhuman Hearts/Human Non-Conforming.gif
 ../Alterhuman Hearts/Otherkin.gif
 ../Alterhuman Hearts/Therian.gif
-../Misc Hearts/Identity/Voidpunk.gif
 ../Misc Hearts/Identity/Anarcho-Queer.gif
+../Misc Hearts/Identity/Furry.gif
+../Misc Hearts/Identity/Voidpunk.gif
 #
 # HEALTH HEARTS
 #
@@ -127,7 +128,6 @@
 ../Queer Hearts/Sexuality/Ninsexual 2.gif | Ninsexual
 ../Queer Hearts/Sexuality/Omnisexual.gif
 ../Queer Hearts/Sexuality/Pansexual.gif
-../Queer Hearts/Sexuality/Polysexual.gif
 ../Queer Hearts/Sexuality/Sapphic.gif
 
 # Relationship model
