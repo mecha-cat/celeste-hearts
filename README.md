@@ -1,6 +1,6 @@
 # celeste-hearts
 Main repo for the heart emotes inspired by the famous game.
-If you're coming from Mastodon/Fediverse you're probably looking for the packs which can be located in the Fediverse Packs folder. If you're coming here from another place... well hello there, you may or may not be interested in joining the [Discord server](https://discord.com/invite/f46CqtnSbj).
+You may or may not be interested in joining the [Discord server](https://discord.com/invite/f46CqtnSbj) to see what I'm up to.
 
 # Template - Make Your Own Hearts
 You will need:
@@ -12,7 +12,7 @@ You will need:
     - For KDE: should already be included in the base DE, open the widget menu, search for "color picker" and add it to your screen;
     - For Cinnamon: open the applet menu, search for "color picker", download the applet and add it to your panel.
 
-It is highly recommended to use the `Template (14 frames).aseprite` file located in the Templates folder for simple flags with horizontal lines. For flags with vertical, diagonal lines, or otherwise more complex designs, it is advised to use `Template (28 frames).aseprite`.
+It is highly recommended to use the `Template (14 frames).aseprite` file located in the Templates folder for simple flags with horizontal lines. For flags with vertical, diagonal lines, or otherwise more complex designs, it is advised to use the `Template (28 frames).aseprite` one.
 
 ## Design Decisions
 
@@ -59,8 +59,4 @@ Colors should be sourced from the original flag with a few exceptions:
 - Averse: #9BED9F
 - Repulsed: #F9CE9F
 - Abstained: #CECECE
-
-# Building Fediverse Packs - Dependencies
-- zip
-- nodejs
 
