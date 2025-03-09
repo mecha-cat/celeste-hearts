@@ -25,11 +25,12 @@ Colors should be sourced from the original flag with a few exceptions:
 
 - Asexual Purple: #790196
 - Aromantic Green: #2DA038
-- Rose (Aroace) Blue: #1F5474
+- Aromantic Asexual Blue: #1F5474
 - Aplatonic Yellow: #FEF052
 - Asensual Orange: #FFA96C
 - Anaesthetic Pink: #FD82AE
 - Analterous Light Blue: #75A0FF
+- Aqueerplatonic Light Pink & Light Yellow: #F093A6 & #FDF06B
 - Afamiliar Light Blue & Orange: #3D9FDE & #DE883D
 - Asocial Red: #ED1B24
 
